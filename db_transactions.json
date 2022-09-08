@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "name": "Salary from Google",
+      "amount": 300000,
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "new ",
+      "amount": 141414,
+      "type": "income",
+      "id": 4
+    },
+    {
+      "name": "expense",
+      "type": "expense",
+      "amount": 5000,
+      "id": 8
+    },
+    {
+      "name": "afa",
+      "type": "income",
+      "amount": 44141,
+      "id": 9
+    },
+    {
+      "name": "adada",
+      "type": "expense",
+      "amount": 123,
+      "id": 11
+    },
+    {
+      "name": "ssa",
+      "type": "income",
+      "amount": 1313,
+      "id": 13
+    }
+  ]
+}
