@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start:dev": "node server.js",
-        "start": "json-server --watch db_transactions.json --no-cors true --port 9000"
+        "start": "node server.js",
+        "start:dev": "json-server --watch db_transactions.json --no-cors true --port 9000"
     },
     "dependencies": {
         "json-server": "^0.17.0"
